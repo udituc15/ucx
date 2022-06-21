@@ -1,0 +1,101 @@
+body {
+	font-family: Helvetica, Arial, sans-serif;
+	margin: 0;
+}
+
+/* General Rules */
+
+p {
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 700;
+	margin: auto;
+	text-align: center;
+
+}
+
+h1 {
+	color:#1a4d4d;
+	font-family: 'Dancing Script', cursive;
+	margin-top: 18%;
+	margin-bottom: 2%;
+	font-size: 6rem;
+}
+
+h2 {
+	color:#1a4d4d;
+	font-family: 'Nanum Gothic', sans-serif;
+	font-size: 2.5rem;
+}
+
+h3{
+	font-family: 'Nanum Gothic', sans-serif;
+	color:#1a4d4d;
+	margin:0;
+}
+
+ hr {
+	margin: 5% auto;
+	border-color: #a0a9a9;
+	border-style: none;
+	border-top-style:dotted;
+	border-width: .4rem;
+	width: 5%;
+ }
+
+
+/* Specific Rules */
+.top-section {
+	background-image: linear-gradient(to bottom, white, powderblue, #7FFFD4);
+	margin: 0 auto;
+}
+
+.intro {
+	text-align: center;
+}
+
+.wave {
+	margin-top: 7.5%;
+	text-align: left;
+	text-align: left;
+	width: 12%;
+}
+
+.link-imgs {
+	margin: 0 .8%;
+	text-decoration: none;
+	width: 2%;
+}
+
+.middle-section{
+	margin: 2% auto;
+	text-align: center;
+
+}
+
+.prof {
+	border-radius: 50%;
+	width: 14%;
+}
+
+.p-info {
+	width: 25%;
+	line-height: 1.8;
+}
+
+
+.bottom-section {
+	padding: 1%;
+	width: auto;
+	height: auto;
+	background-color: #7FFFD4;
+}
+
+.links {
+	text-align: center;
+	margin: auto;
+}
+
+#msg {
+	font-size: 2rem;
+	padding: 1%;
+}
