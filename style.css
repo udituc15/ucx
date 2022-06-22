@@ -63,7 +63,7 @@ h3{
 .link-imgs {
 	margin: 0 .8%;
 	text-decoration: none;
-	width: 2%;
+	width: 32px;
 }
 
 .middle-section{
@@ -90,10 +90,10 @@ h3{
 
 .links {
 	text-align: center;
-	margin: auto;
+	margin: 1%;
+	padding-bottom: 2%
 }
 
-#msg {
-	font-size: 2rem;
-	padding: 1%;
+.copyright{
+	font-size: .8rem;
 }
